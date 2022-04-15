@@ -1,4 +1,4 @@
-/*WAP to Input 5 subject marks of a student and find total marks and
+/*Input 5 subject marks of a student and find total marks and
 percentage obtained by the student.*/
 
 int main()
