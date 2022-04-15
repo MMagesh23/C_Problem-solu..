@@ -1,4 +1,4 @@
-//2. WAP to input length and breadth of a rectangle and calculate its area. Area=Length*Breadth.
+// Input length and breadth of a rectangle and calculate its area. Area=Length*Breadth.
 
 #include<stdio.h>
 int main()
