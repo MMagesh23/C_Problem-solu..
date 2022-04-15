@@ -1,4 +1,4 @@
-/*WAP to input radius and height of a cylinder and calculate volume of
+/* Input radius and height of a cylinder and calculate volume of
 cylinder. Volume=3.14*r*r*h.*/
 
 int main()
