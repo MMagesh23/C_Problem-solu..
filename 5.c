@@ -1,4 +1,4 @@
-/*WAP to input principal, rate and time and calculate Simple Interest. Simple
+/* Input principal, rate and time and calculate Simple Interest. Simple
 Interest=Principal*Rate*Time/100*/
 #include <stdio.h>
 int main()
