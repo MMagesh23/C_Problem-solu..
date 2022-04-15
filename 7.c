@@ -1,4 +1,4 @@
-/*WAP to convert temperature from Fahrenheit to Celsius. C=(F-32)*5/9*/
+/* Convert temperature from Fahrenheit to Celsius. C=(F-32)*5/9*/
 
 #include<stdio.h>
 int main()
